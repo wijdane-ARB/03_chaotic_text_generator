@@ -1,0 +1,1201 @@
+doc_id,sentence,tags
+0,the quiet dogs eat the cakes in the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the cats sleep in the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+0,the old children watch the birds at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the girls cook the apples behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the hungry foxes run by the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+0,the cats eat the soup in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the farmers watch the mice in the old school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+0,the cats run behind the school .,DET NOUN VERB PREP DET NOUN PUNCT
+0,the dogs fear the mice .,DET NOUN VERB DET NOUN PUNCT
+0,the happy birds eat the cheese at the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the mice eat the bread near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the old doctors leave the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+0,the children clean the happy market .,DET NOUN VERB DET ADJ NOUN PUNCT
+0,the foxes eat the soup by the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the cats chase the dogs .,DET NOUN VERB DET NOUN PUNCT
+0,the young birds eat the young rice at the kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+0,the children find the key behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the happy horses sleep behind the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+0,the children watch the mice by the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+0,the doctors bring the rice behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+1,the farmers cook the hungry bread at the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+1,the lazy doctors buy the key at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+1,the boys bring the coin behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+1,the old girls clean the old kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+1,the small dogs chase the foxes .,DET ADJ NOUN VERB DET NOUN PUNCT
+1,the foxes play at the market .,DET NOUN VERB PREP DET NOUN PUNCT
+1,the birds eat the cheese at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+1,the young foxes run at the park .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+1,the mice sleep in the school .,DET NOUN VERB PREP DET NOUN PUNCT
+1,the boys buy the lazy ball at the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+1,the cats follow the birds .,DET NOUN VERB DET NOUN PUNCT
+1,the small cats sleep near the river .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+1,the cats chase the horses .,DET NOUN VERB DET NOUN PUNCT
+1,the teachers buy the cakes by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+1,the old cats fear the cats .,DET ADJ NOUN VERB DET NOUN PUNCT
+1,the small birds eat the rice near the hungry market .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+1,the mice sleep at the old kitchen .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+1,the hungry teachers watch the birds by the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+1,the foxes chase the dogs .,DET NOUN VERB DET NOUN PUNCT
+1,the horses eat the bread in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the old birds run near the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+2,the dogs follow the mice .,DET NOUN VERB DET NOUN PUNCT
+2,the children bring the quiet cakes in the market .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+2,the hungry children bring the quiet rice near the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+2,the foxes eat the apples in the young school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+2,the happy mice run near the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+2,the cats eat the happy rice in the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+2,the happy girls watch the cats behind the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the young birds eat the cheese near the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the brave teachers leave the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+2,the hungry teachers eat the cheese near the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the old boys eat the soup behind the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the young children bring the watch behind the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the young foxes play behind the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+2,the birds sleep behind the young garden .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+2,the doctors watch the mice near the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the birds eat the bread behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the quiet doctors visit the young park .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+2,the birds eat the soup by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+2,the brave teachers sell the cheese by the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the foxes fear the birds .,DET NOUN VERB DET NOUN PUNCT
+3,the old children buy the cheese near the old river .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+3,the girls watch the mice by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the boys visit the garden .,DET NOUN VERB DET NOUN PUNCT
+3,the girls lose the coin by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the cats follow the lazy mice .,DET NOUN VERB DET ADJ NOUN PUNCT
+3,the doctors watch the horses by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the doctors clean the park .,DET NOUN VERB DET NOUN PUNCT
+3,the farmers buy the book by the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the children buy the apples behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the young mice chase the cats .,DET ADJ NOUN VERB DET NOUN PUNCT
+3,the doctors clean the market .,DET NOUN VERB DET NOUN PUNCT
+3,the doctors find the key at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the teachers bring the rice by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the lazy cats follow the mice .,DET ADJ NOUN VERB DET NOUN PUNCT
+3,the boys lose the key by the young kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+3,the girls watch the dogs at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the lazy farmers clean the river .,DET ADJ NOUN VERB DET NOUN PUNCT
+3,the teachers buy the soup in the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+3,the hungry children eat the cheese near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+4,the lazy mice chase the dogs .,DET ADJ NOUN VERB DET NOUN PUNCT
+4,the farmers visit the park .,DET NOUN VERB DET NOUN PUNCT
+4,the happy foxes eat the small apples by the river .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+4,the boys visit the park .,DET NOUN VERB DET NOUN PUNCT
+4,the quiet mice fear the birds .,DET ADJ NOUN VERB DET NOUN PUNCT
+4,the young children bring the brave watch at the garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+4,the children clean the river .,DET NOUN VERB DET NOUN PUNCT
+4,the mice follow the birds .,DET NOUN VERB DET NOUN PUNCT
+4,the teachers bring the ball in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+4,the birds fear the foxes .,DET NOUN VERB DET NOUN PUNCT
+4,the foxes sleep at the school .,DET NOUN VERB PREP DET NOUN PUNCT
+4,the quiet doctors eat the cheese in the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+4,the boys leave the park .,DET NOUN VERB DET NOUN PUNCT
+4,the girls visit the river .,DET NOUN VERB DET NOUN PUNCT
+4,the brave horses eat the apples at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+4,the teachers buy the cheese in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+4,the mice sleep near the river .,DET NOUN VERB PREP DET NOUN PUNCT
+4,the doctors bring the bread near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+4,the happy foxes chase the birds .,DET ADJ NOUN VERB DET NOUN PUNCT
+4,the boys sell the small rice behind the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+5,the small farmers sell the hungry soup at the small market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+5,the foxes chase the cats .,DET NOUN VERB DET NOUN PUNCT
+5,the doctors watch the birds near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the farmers leave the school .,DET NOUN VERB DET NOUN PUNCT
+5,the doctors watch the cats near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the old dogs eat the cheese in the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the girls watch the mice behind the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the foxes play by the market .,DET NOUN VERB PREP DET NOUN PUNCT
+5,the old children visit the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+5,the quiet birds play by the river .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+5,the foxes play at the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+5,the girls watch the horses behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the small mice run by the happy river .,DET ADJ NOUN VERB PREP DET ADJ NOUN PUNCT
+5,the farmers watch the young mice at the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+5,the farmers eat the apples at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the birds eat the hungry apples behind the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+5,the girls lose the ball by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the cats eat the rice near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the cats eat the rice near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+5,the young girls watch the cats at the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the quiet doctors bring the lamp at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the birds fear the dogs .,DET NOUN VERB DET NOUN PUNCT
+6,the young farmers bring the book behind the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the dogs eat the soup behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the farmers visit the market .,DET NOUN VERB DET NOUN PUNCT
+6,the teachers watch the lazy mice at the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+6,the boys lose the ball by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the lazy girls lose the happy lamp near the quiet school .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+6,the children watch the brave mice by the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+6,the horses eat the bread by the quiet market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+6,the hungry mice eat the bread at the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the small foxes run behind the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+6,the children watch the dogs near the young kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+6,the happy dogs eat the apples at the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the farmers buy the brave key behind the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+6,the quiet dogs eat the soup in the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the children buy the young apples in the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+6,the girls lose the book near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+6,the birds follow the mice .,DET NOUN VERB DET NOUN PUNCT
+6,the boys find the coin in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+7,the mice sleep in the school .,DET NOUN VERB PREP DET NOUN PUNCT
+7,the dogs eat the brave rice by the market .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+7,the teachers buy the apples in the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+7,the dogs fear the horses .,DET NOUN VERB DET NOUN PUNCT
+7,the farmers find the watch behind the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+7,the children buy the cakes behind the old river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+7,the birds run by the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+7,the mice eat the soup in the small school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+7,the old doctors visit the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+7,the mice eat the soup by the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+7,the teachers leave the school .,DET NOUN VERB DET NOUN PUNCT
+7,the dogs run at the school .,DET NOUN VERB PREP DET NOUN PUNCT
+7,the foxes play behind the quiet market .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+7,the horses sleep near the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+7,the brave dogs sleep by the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+7,the dogs follow the birds .,DET NOUN VERB DET NOUN PUNCT
+7,the happy dogs play behind the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+7,the dogs eat the old rice behind the quiet garden .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+7,the birds chase the horses .,DET NOUN VERB DET NOUN PUNCT
+7,the doctors leave the old kitchen .,DET NOUN VERB DET ADJ NOUN PUNCT
+8,the mice play behind the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+8,the horses run in the river .,DET NOUN VERB PREP DET NOUN PUNCT
+8,the foxes play near the quiet kitchen .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+8,the mice eat the rice by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+8,the children watch the old horses at the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+8,the teachers sell the apples at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+8,the children sell the hungry bread at the brave market .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+8,the brave children watch the brave mice at the park .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+8,the birds run behind the old market .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+8,the cats eat the rice behind the quiet kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+8,the birds fear the mice .,DET NOUN VERB DET NOUN PUNCT
+8,the quiet girls watch the quiet foxes behind the happy kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+8,the dogs eat the bread in the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+8,the farmers visit the park .,DET NOUN VERB DET NOUN PUNCT
+8,the doctors bring the small cheese near the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+8,the lazy mice eat the rice at the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+8,the farmers lose the lazy key behind the young kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+8,the quiet dogs sleep behind the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+8,the horses sleep near the park .,DET NOUN VERB PREP DET NOUN PUNCT
+8,the mice follow the small horses .,DET NOUN VERB DET ADJ NOUN PUNCT
+9,the cats run by the river .,DET NOUN VERB PREP DET NOUN PUNCT
+9,the foxes eat the small apples near the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+9,the farmers visit the garden .,DET NOUN VERB DET NOUN PUNCT
+9,the horses fear the quiet mice .,DET NOUN VERB DET ADJ NOUN PUNCT
+9,the happy girls bring the rice by the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+9,the children cook the cheese behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+9,the mice chase the lazy horses .,DET NOUN VERB DET ADJ NOUN PUNCT
+9,the doctors lose the key by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+9,the hungry teachers sell the apples by the hungry school .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+9,the girls clean the garden .,DET NOUN VERB DET NOUN PUNCT
+9,the cats eat the rice at the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+9,the girls lose the key near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+9,the small teachers watch the brave mice in the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+9,the lazy horses play by the school .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+9,the teachers sell the cakes by the brave garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+9,the young farmers buy the cakes by the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+9,the dogs run behind the park .,DET NOUN VERB PREP DET NOUN PUNCT
+9,the birds eat the bread behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+9,the happy children find the lamp by the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+9,the old farmers sell the happy cheese in the garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+10,the children watch the cats behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+10,the dogs chase the happy mice .,DET NOUN VERB DET ADJ NOUN PUNCT
+10,the brave children leave the river .,DET ADJ NOUN VERB DET NOUN PUNCT
+10,the lazy boys watch the foxes at the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+10,the doctors sell the apples at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+10,the birds chase the cats .,DET NOUN VERB DET NOUN PUNCT
+10,the foxes eat the bread by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+10,the foxes run by the young garden .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+10,the foxes chase the horses .,DET NOUN VERB DET NOUN PUNCT
+10,the teachers watch the foxes near the hungry park .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+10,the happy dogs eat the lazy cakes near the river .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+10,the girls visit the market .,DET NOUN VERB DET NOUN PUNCT
+10,the doctors watch the cats behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+10,the lazy cats sleep at the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+10,the dogs eat the apples at the brave market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+10,the children watch the birds behind the small river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+10,the children lose the book in the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+10,the hungry doctors buy the brave rice behind the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+10,the teachers lose the ball in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+10,the small dogs sleep behind the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+11,the doctors clean the park .,DET NOUN VERB DET NOUN PUNCT
+11,the small mice follow the foxes .,DET ADJ NOUN VERB DET NOUN PUNCT
+11,the children clean the river .,DET NOUN VERB DET NOUN PUNCT
+11,the teachers sell the rice behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+11,the happy doctors clean the garden .,DET ADJ NOUN VERB DET NOUN PUNCT
+11,the farmers sell the soup near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+11,the brave doctors clean the garden .,DET ADJ NOUN VERB DET NOUN PUNCT
+11,the horses run by the park .,DET NOUN VERB PREP DET NOUN PUNCT
+11,the dogs fear the horses .,DET NOUN VERB DET NOUN PUNCT
+11,the old mice run behind the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+11,the mice run behind the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+11,the brave teachers watch the foxes near the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+11,the young birds eat the quiet cakes at the kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+11,the teachers cook the hungry soup near the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+11,the foxes play behind the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+11,the quiet boys watch the mice near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+11,the old dogs chase the cats .,DET ADJ NOUN VERB DET NOUN PUNCT
+11,the farmers sell the rice near the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+11,the lazy birds run at the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+11,the mice chase the mice .,DET NOUN VERB DET NOUN PUNCT
+12,the happy boys watch the cats in the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the old foxes fear the cats .,DET ADJ NOUN VERB DET NOUN PUNCT
+12,the quiet boys buy the bread by the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the brave doctors watch the small cats in the kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+12,the doctors sell the bread at the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the farmers sell the cakes at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the lazy horses eat the cheese behind the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the children bring the ball behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the hungry farmers sell the bread in the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the boys buy the key behind the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the teachers clean the river .,DET NOUN VERB DET NOUN PUNCT
+12,the young birds run near the school .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+12,the lazy birds play at the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+12,the happy farmers bring the book in the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the quiet girls watch the horses by the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the dogs eat the soup behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the boys watch the young birds in the happy park .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+12,the doctors sell the happy apples by the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+12,the farmers watch the birds by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+12,the small farmers watch the cats at the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+13,the girls lose the coin by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+13,the dogs play by the river .,DET NOUN VERB PREP DET NOUN PUNCT
+13,the dogs chase the mice .,DET NOUN VERB DET NOUN PUNCT
+13,the lazy foxes run near the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+13,the doctors clean the park .,DET NOUN VERB DET NOUN PUNCT
+13,the happy birds eat the apples at the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+13,the birds follow the mice .,DET NOUN VERB DET NOUN PUNCT
+13,the children bring the ball near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+13,the foxes follow the mice .,DET NOUN VERB DET NOUN PUNCT
+13,the horses eat the cakes behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+13,the horses eat the cheese behind the hungry school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+13,the children clean the kitchen .,DET NOUN VERB DET NOUN PUNCT
+13,the children buy the old cheese in the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+13,the cats chase the mice .,DET NOUN VERB DET NOUN PUNCT
+13,the happy girls leave the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+13,the teachers clean the school .,DET NOUN VERB DET NOUN PUNCT
+13,the small girls bring the cakes in the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+13,the boys visit the river .,DET NOUN VERB DET NOUN PUNCT
+13,the children bring the watch behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+13,the lazy boys bring the cheese in the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+14,the children visit the brave school .,DET NOUN VERB DET ADJ NOUN PUNCT
+14,the boys watch the young horses by the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+14,the happy horses eat the cheese in the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+14,the farmers clean the kitchen .,DET NOUN VERB DET NOUN PUNCT
+14,the brave mice sleep in the river .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+14,the quiet children eat the apples behind the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+14,the horses fear the foxes .,DET NOUN VERB DET NOUN PUNCT
+14,the teachers leave the market .,DET NOUN VERB DET NOUN PUNCT
+14,the hungry doctors lose the book in the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+14,the birds sleep by the market .,DET NOUN VERB PREP DET NOUN PUNCT
+14,the teachers eat the cakes by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+14,the teachers visit the river .,DET NOUN VERB DET NOUN PUNCT
+14,the lazy children watch the mice in the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+14,the hungry cats eat the cakes in the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+14,the horses sleep behind the market .,DET NOUN VERB PREP DET NOUN PUNCT
+14,the children lose the lamp at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+14,the happy children clean the young kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+14,the dogs chase the foxes .,DET NOUN VERB DET NOUN PUNCT
+14,the doctors clean the market .,DET NOUN VERB DET NOUN PUNCT
+14,the dogs follow the hungry cats .,DET NOUN VERB DET ADJ NOUN PUNCT
+15,the doctors find the watch in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+15,the girls watch the cats at the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+15,the cats chase the foxes .,DET NOUN VERB DET NOUN PUNCT
+15,the mice fear the birds .,DET NOUN VERB DET NOUN PUNCT
+15,the farmers buy the ball by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+15,the happy children sell the bread behind the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+15,the farmers leave the market .,DET NOUN VERB DET NOUN PUNCT
+15,the doctors sell the cheese behind the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+15,the girls lose the key by the old school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+15,the hungry horses follow the old cats .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+15,the doctors bring the hungry cheese by the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+15,the foxes follow the cats .,DET NOUN VERB DET NOUN PUNCT
+15,the mice chase the horses .,DET NOUN VERB DET NOUN PUNCT
+15,the mice chase the dogs .,DET NOUN VERB DET NOUN PUNCT
+15,the quiet teachers watch the mice behind the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+15,the teachers watch the lazy foxes near the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+15,the dogs play near the young school .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+15,the old horses fear the horses .,DET ADJ NOUN VERB DET NOUN PUNCT
+15,the children watch the horses at the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+15,the boys lose the small key in the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+16,the girls lose the old watch near the lazy school .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+16,the mice play at the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+16,the horses sleep in the school .,DET NOUN VERB PREP DET NOUN PUNCT
+16,the girls watch the mice at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+16,the birds sleep near the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+16,the farmers sell the young soup by the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+16,the hungry mice fear the cats .,DET ADJ NOUN VERB DET NOUN PUNCT
+16,the doctors clean the small park .,DET NOUN VERB DET ADJ NOUN PUNCT
+16,the young mice follow the cats .,DET ADJ NOUN VERB DET NOUN PUNCT
+16,the boys watch the mice by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+16,the foxes play by the market .,DET NOUN VERB PREP DET NOUN PUNCT
+16,the old doctors buy the coin at the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+16,the birds follow the birds .,DET NOUN VERB DET NOUN PUNCT
+16,the children cook the cakes in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+16,the old cats run by the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+16,the farmers visit the river .,DET NOUN VERB DET NOUN PUNCT
+16,the young teachers visit the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+16,the quiet boys leave the quiet market .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+16,the children visit the school .,DET NOUN VERB DET NOUN PUNCT
+16,the small farmers sell the apples in the happy river .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+17,the doctors clean the hungry school .,DET NOUN VERB DET ADJ NOUN PUNCT
+17,the brave teachers watch the young horses in the kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+17,the dogs fear the dogs .,DET NOUN VERB DET NOUN PUNCT
+17,the lazy boys eat the quiet soup behind the garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+17,the old children sell the cheese at the quiet garden .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+17,the young farmers clean the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+17,the brave doctors watch the dogs at the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+17,the lazy doctors cook the apples at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+17,the birds chase the birds .,DET NOUN VERB DET NOUN PUNCT
+17,the horses play near the school .,DET NOUN VERB PREP DET NOUN PUNCT
+17,the teachers lose the quiet ball behind the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+17,the girls clean the river .,DET NOUN VERB DET NOUN PUNCT
+17,the doctors watch the mice at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+17,the birds eat the bread in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+17,the mice eat the rice at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+17,the girls find the key by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+17,the brave teachers watch the mice by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+17,the teachers eat the bread in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+17,the brave horses chase the foxes .,DET ADJ NOUN VERB DET NOUN PUNCT
+17,the lazy farmers visit the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+18,the brave mice sleep near the park .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+18,the birds chase the horses .,DET NOUN VERB DET NOUN PUNCT
+18,the young children visit the young river .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+18,the dogs run by the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+18,the quiet mice eat the bread by the happy school .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+18,the hungry farmers sell the cakes behind the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+18,the farmers clean the kitchen .,DET NOUN VERB DET NOUN PUNCT
+18,the mice follow the birds .,DET NOUN VERB DET NOUN PUNCT
+18,the foxes sleep near the market .,DET NOUN VERB PREP DET NOUN PUNCT
+18,the doctors sell the cheese by the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+18,the children leave the market .,DET NOUN VERB DET NOUN PUNCT
+18,the quiet boys watch the lazy birds in the garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+18,the young doctors leave the river .,DET ADJ NOUN VERB DET NOUN PUNCT
+18,the mice eat the soup near the small market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+18,the old doctors buy the lazy rice at the garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+18,the brave doctors watch the cats at the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+18,the mice sleep behind the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+18,the hungry teachers visit the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+18,the birds fear the mice .,DET NOUN VERB DET NOUN PUNCT
+18,the boys watch the dogs near the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+19,the doctors bring the quiet apples by the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+19,the dogs eat the soup in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+19,the dogs chase the brave dogs .,DET NOUN VERB DET ADJ NOUN PUNCT
+19,the teachers lose the quiet coin at the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+19,the cats eat the cakes behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+19,the farmers leave the hungry park .,DET NOUN VERB DET ADJ NOUN PUNCT
+19,the children clean the kitchen .,DET NOUN VERB DET NOUN PUNCT
+19,the young boys clean the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+19,the boys bring the apples in the lazy garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+19,the dogs run at the young market .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+19,the mice eat the apples in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+19,the mice sleep in the school .,DET NOUN VERB PREP DET NOUN PUNCT
+19,the dogs eat the bread in the lazy garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+19,the birds fear the cats .,DET NOUN VERB DET NOUN PUNCT
+19,the hungry horses eat the soup in the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+19,the cats eat the apples near the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+19,the dogs eat the small rice near the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+19,the dogs follow the horses .,DET NOUN VERB DET NOUN PUNCT
+19,the hungry boys find the lamp behind the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+19,the quiet children find the key by the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the girls bring the key by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the boys sell the cheese at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the girls watch the foxes near the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the children visit the garden .,DET NOUN VERB DET NOUN PUNCT
+20,the cats run near the small river .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+20,the young teachers watch the cats by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the hungry doctors cook the cheese by the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the mice eat the bread behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the old girls lose the small book near the happy park .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+20,the brave birds play behind the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+20,the foxes eat the bread in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the farmers bring the soup at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the boys clean the hungry kitchen .,DET NOUN VERB DET ADJ NOUN PUNCT
+20,the dogs eat the bread in the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the brave horses chase the small birds .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+20,the children lose the ball at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+20,the doctors buy the small cheese near the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+20,the lazy farmers clean the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+20,the old farmers leave the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+20,the brave doctors watch the dogs by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+21,the young cats chase the mice .,DET ADJ NOUN VERB DET NOUN PUNCT
+21,the girls bring the young coin behind the old river .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+21,the boys leave the garden .,DET NOUN VERB DET NOUN PUNCT
+21,the birds follow the foxes .,DET NOUN VERB DET NOUN PUNCT
+21,the girls leave the happy park .,DET NOUN VERB DET ADJ NOUN PUNCT
+21,the doctors find the ball near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+21,the children bring the book near the old market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+21,the girls buy the lazy lamp behind the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+21,the boys sell the apples in the quiet park .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+21,the dogs eat the apples near the old school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+21,the children clean the market .,DET NOUN VERB DET NOUN PUNCT
+21,the horses play by the river .,DET NOUN VERB PREP DET NOUN PUNCT
+21,the dogs sleep in the old market .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+21,the foxes fear the mice .,DET NOUN VERB DET NOUN PUNCT
+21,the foxes sleep in the market .,DET NOUN VERB PREP DET NOUN PUNCT
+21,the dogs eat the brave bread in the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+21,the horses fear the cats .,DET NOUN VERB DET NOUN PUNCT
+21,the boys clean the market .,DET NOUN VERB DET NOUN PUNCT
+21,the happy girls bring the cheese behind the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+21,the quiet teachers visit the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+22,the children find the coin behind the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+22,the doctors buy the cheese in the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+22,the foxes sleep at the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+22,the cats chase the foxes .,DET NOUN VERB DET NOUN PUNCT
+22,the children watch the old birds at the market .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+22,the brave mice fear the birds .,DET ADJ NOUN VERB DET NOUN PUNCT
+22,the foxes play by the old river .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+22,the lazy girls watch the old birds near the lazy garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+22,the boys cook the cheese behind the happy kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+22,the cats eat the apples in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+22,the farmers clean the market .,DET NOUN VERB DET NOUN PUNCT
+22,the mice eat the cakes behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+22,the birds eat the cheese by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+22,the farmers cook the small cakes by the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+22,the brave birds sleep by the lazy market .,DET ADJ NOUN VERB PREP DET ADJ NOUN PUNCT
+22,the boys buy the cheese in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+22,the foxes eat the apples near the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+22,the hungry children eat the lazy cakes at the river .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+22,the farmers leave the river .,DET NOUN VERB DET NOUN PUNCT
+22,the children buy the hungry watch behind the quiet garden .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+23,the young dogs play in the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+23,the doctors sell the soup near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+23,the brave dogs chase the birds .,DET ADJ NOUN VERB DET NOUN PUNCT
+23,the birds eat the apples behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+23,the teachers visit the small river .,DET NOUN VERB DET ADJ NOUN PUNCT
+23,the lazy dogs sleep in the park .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+23,the teachers eat the soup at the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+23,the young boys buy the apples near the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+23,the boys clean the market .,DET NOUN VERB DET NOUN PUNCT
+23,the girls find the key at the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+23,the horses fear the birds .,DET NOUN VERB DET NOUN PUNCT
+23,the horses eat the cheese at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+23,the doctors buy the lazy ball near the market .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+23,the hungry mice follow the mice .,DET ADJ NOUN VERB DET NOUN PUNCT
+23,the foxes follow the cats .,DET NOUN VERB DET NOUN PUNCT
+23,the horses play behind the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+23,the girls leave the kitchen .,DET NOUN VERB DET NOUN PUNCT
+23,the teachers buy the hungry watch by the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+23,the farmers lose the coin at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+23,the young dogs play by the river .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+24,the foxes play near the lazy school .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+24,the quiet farmers buy the cakes in the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the lazy foxes follow the birds .,DET ADJ NOUN VERB DET NOUN PUNCT
+24,the lazy dogs eat the soup at the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the happy girls bring the lamp near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the old boys watch the dogs in the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the brave horses eat the cakes in the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the teachers cook the soup by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the foxes fear the cats .,DET NOUN VERB DET NOUN PUNCT
+24,the small boys bring the cheese near the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the young birds chase the mice .,DET ADJ NOUN VERB DET NOUN PUNCT
+24,the dogs play near the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+24,the quiet mice fear the horses .,DET ADJ NOUN VERB DET NOUN PUNCT
+24,the teachers clean the school .,DET NOUN VERB DET NOUN PUNCT
+24,the birds eat the bread in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the doctors bring the watch at the quiet park .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+24,the farmers buy the old bread by the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+24,the small mice eat the apples behind the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+24,the doctors leave the market .,DET NOUN VERB DET NOUN PUNCT
+24,the boys bring the soup behind the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the doctors buy the lamp near the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the boys bring the ball behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the farmers clean the school .,DET NOUN VERB DET NOUN PUNCT
+25,the teachers visit the kitchen .,DET NOUN VERB DET NOUN PUNCT
+25,the girls watch the dogs by the young kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+25,the boys cook the apples at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the happy cats follow the dogs .,DET ADJ NOUN VERB DET NOUN PUNCT
+25,the girls sell the cheese by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the girls buy the coin at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the old children clean the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+25,the boys find the coin near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the young doctors bring the bread in the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the doctors leave the park .,DET NOUN VERB DET NOUN PUNCT
+25,the lazy foxes chase the young cats .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+25,the happy dogs fear the happy cats .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+25,the girls sell the apples by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+25,the mice sleep in the river .,DET NOUN VERB PREP DET NOUN PUNCT
+25,the doctors clean the market .,DET NOUN VERB DET NOUN PUNCT
+25,the mice chase the mice .,DET NOUN VERB DET NOUN PUNCT
+25,the foxes play by the river .,DET NOUN VERB PREP DET NOUN PUNCT
+26,the doctors find the watch at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the old farmers lose the watch by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the foxes eat the bread in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the cats eat the bread in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the foxes follow the cats .,DET NOUN VERB DET NOUN PUNCT
+26,the small farmers bring the book at the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the girls find the coin near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the hungry farmers watch the dogs in the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the children sell the cakes near the small market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+26,the birds run by the market .,DET NOUN VERB PREP DET NOUN PUNCT
+26,the farmers watch the mice near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the horses sleep in the school .,DET NOUN VERB PREP DET NOUN PUNCT
+26,the mice play by the market .,DET NOUN VERB PREP DET NOUN PUNCT
+26,the birds eat the cakes by the old river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+26,the children sell the small bread near the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+26,the boys find the book near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+26,the birds play at the market .,DET NOUN VERB PREP DET NOUN PUNCT
+26,the birds run in the river .,DET NOUN VERB PREP DET NOUN PUNCT
+26,the lazy children eat the young bread by the garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+26,the doctors bring the key near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the girls cook the apples by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the farmers leave the garden .,DET NOUN VERB DET NOUN PUNCT
+27,the girls bring the coin behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the happy horses eat the young bread behind the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+27,the horses sleep at the market .,DET NOUN VERB PREP DET NOUN PUNCT
+27,the young cats eat the cakes by the lazy river .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+27,the birds eat the lazy bread by the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+27,the teachers leave the market .,DET NOUN VERB DET NOUN PUNCT
+27,the mice eat the bread at the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the teachers sell the cakes near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the boys cook the cakes by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the children watch the birds near the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the brave mice eat the happy rice by the school .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+27,the brave birds eat the rice at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the teachers eat the bread at the small market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+27,the boys buy the cheese in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the cats follow the cats .,DET NOUN VERB DET NOUN PUNCT
+27,the children watch the dogs by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the children bring the watch at the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+27,the girls eat the cheese by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the brave doctors buy the ball behind the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the happy mice play in the river .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+28,the boys cook the apples in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the brave birds chase the mice .,DET ADJ NOUN VERB DET NOUN PUNCT
+28,the farmers watch the birds by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the boys bring the happy soup by the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+28,the old children buy the apples near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the doctors watch the mice in the brave river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+28,the birds fear the cats .,DET NOUN VERB DET NOUN PUNCT
+28,the horses eat the bread at the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the brave doctors bring the bread behind the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the girls cook the rice by the hungry market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+28,the dogs eat the soup in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the mice eat the bread near the brave garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+28,the happy foxes play in the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+28,the teachers sell the bread at the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+28,the birds sleep by the hungry school .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+28,the quiet doctors watch the lazy horses at the garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+28,the old boys leave the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+28,the boys buy the cakes behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+29,the boys watch the small birds by the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+29,the brave dogs run by the happy market .,DET ADJ NOUN VERB PREP DET ADJ NOUN PUNCT
+29,the boys watch the small birds at the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+29,the farmers eat the lazy apples behind the old garden .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+29,the boys buy the apples by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+29,the brave farmers watch the dogs in the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+29,the horses eat the apples near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+29,the farmers clean the garden .,DET NOUN VERB DET NOUN PUNCT
+29,the cats follow the dogs .,DET NOUN VERB DET NOUN PUNCT
+29,the hungry children watch the small birds in the kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+29,the boys visit the kitchen .,DET NOUN VERB DET NOUN PUNCT
+29,the boys watch the dogs by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+29,the birds chase the birds .,DET NOUN VERB DET NOUN PUNCT
+29,the birds play near the market .,DET NOUN VERB PREP DET NOUN PUNCT
+29,the happy children leave the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+29,the lazy dogs sleep behind the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+29,the brave horses eat the soup in the brave garden .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+29,the mice eat the cakes behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+29,the horses follow the cats .,DET NOUN VERB DET NOUN PUNCT
+29,the old doctors watch the foxes at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+30,the dogs run near the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+30,the happy dogs eat the hungry cakes near the school .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+30,the lazy horses eat the cheese at the small market .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+30,the boys watch the cats by the happy school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+30,the horses fear the mice .,DET NOUN VERB DET NOUN PUNCT
+30,the mice play behind the market .,DET NOUN VERB PREP DET NOUN PUNCT
+30,the teachers clean the young kitchen .,DET NOUN VERB DET ADJ NOUN PUNCT
+30,the dogs fear the foxes .,DET NOUN VERB DET NOUN PUNCT
+30,the foxes follow the cats .,DET NOUN VERB DET NOUN PUNCT
+30,the dogs chase the young dogs .,DET NOUN VERB DET ADJ NOUN PUNCT
+30,the lazy doctors watch the birds by the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+30,the doctors leave the park .,DET NOUN VERB DET NOUN PUNCT
+30,the horses eat the bread by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+30,the farmers find the book at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+30,the doctors sell the bread in the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+30,the old children watch the horses behind the young park .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+30,the young doctors watch the foxes at the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+30,the teachers watch the lazy foxes behind the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+30,the children visit the river .,DET NOUN VERB DET NOUN PUNCT
+30,the boys find the lamp behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the cats eat the small bread near the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+31,the quiet boys clean the small park .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+31,the teachers leave the school .,DET NOUN VERB DET NOUN PUNCT
+31,the cats eat the cheese at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the doctors bring the old key near the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+31,the dogs chase the horses .,DET NOUN VERB DET NOUN PUNCT
+31,the teachers bring the bread in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the doctors bring the apples near the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the doctors visit the river .,DET NOUN VERB DET NOUN PUNCT
+31,the hungry doctors watch the cats by the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the farmers lose the key at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the teachers find the book in the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the foxes eat the apples by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the quiet girls lose the book in the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the old doctors clean the old river .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+31,the old foxes eat the cheese near the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+31,the cats chase the mice .,DET NOUN VERB DET NOUN PUNCT
+31,the doctors visit the school .,DET NOUN VERB DET NOUN PUNCT
+31,the quiet teachers watch the quiet horses near the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+31,the horses run by the brave river .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+32,the boys lose the coin by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+32,the old horses play in the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+32,the quiet boys bring the key behind the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+32,the brave farmers clean the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+32,the old girls watch the dogs by the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+32,the happy horses chase the lazy dogs .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+32,the doctors bring the book behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+32,the mice sleep in the school .,DET NOUN VERB PREP DET NOUN PUNCT
+32,the girls clean the school .,DET NOUN VERB DET NOUN PUNCT
+32,the doctors buy the soup in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+32,the happy farmers watch the mice by the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+32,the teachers leave the park .,DET NOUN VERB DET NOUN PUNCT
+32,the mice follow the birds .,DET NOUN VERB DET NOUN PUNCT
+32,the girls watch the brave dogs behind the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+32,the young foxes eat the apples by the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+32,the small boys leave the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+32,the cats eat the soup in the lazy kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+32,the young birds sleep in the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+32,the horses run near the school .,DET NOUN VERB PREP DET NOUN PUNCT
+32,the boys leave the garden .,DET NOUN VERB DET NOUN PUNCT
+33,the foxes run at the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+33,the boys bring the lazy cakes by the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+33,the foxes eat the cheese in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+33,the quiet girls visit the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+33,the small children sell the soup behind the young school .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+33,the small doctors watch the horses by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+33,the mice follow the dogs .,DET NOUN VERB DET NOUN PUNCT
+33,the old doctors bring the cakes behind the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+33,the teachers watch the hungry dogs near the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+33,the farmers leave the market .,DET NOUN VERB DET NOUN PUNCT
+33,the small doctors eat the hungry apples behind the lazy park .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+33,the happy cats run near the school .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+33,the farmers lose the watch behind the happy garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+33,the girls bring the cheese behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+33,the mice sleep at the river .,DET NOUN VERB PREP DET NOUN PUNCT
+33,the cats chase the cats .,DET NOUN VERB DET NOUN PUNCT
+33,the boys watch the mice behind the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+33,the mice eat the rice in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+33,the small children cook the cheese at the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+33,the hungry teachers buy the small key at the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+34,the boys cook the cakes by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the happy mice play in the old school .,DET ADJ NOUN VERB PREP DET ADJ NOUN PUNCT
+34,the farmers watch the horses near the young school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+34,the small horses eat the rice behind the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the birds follow the horses .,DET NOUN VERB DET NOUN PUNCT
+34,the doctors bring the happy soup behind the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+34,the children bring the cheese in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the farmers find the key at the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the boys leave the river .,DET NOUN VERB DET NOUN PUNCT
+34,the hungry birds eat the bread near the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the old cats chase the horses .,DET ADJ NOUN VERB DET NOUN PUNCT
+34,the birds eat the apples in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the old mice eat the bread at the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the teachers buy the bread by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the quiet cats eat the rice in the old kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+34,the old doctors leave the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+34,the mice eat the brave cakes at the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+34,the happy birds run by the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+34,the teachers watch the foxes by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+34,the children lose the book by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+35,the birds fear the horses .,DET NOUN VERB DET NOUN PUNCT
+35,the girls leave the quiet kitchen .,DET NOUN VERB DET ADJ NOUN PUNCT
+35,the foxes sleep behind the market .,DET NOUN VERB PREP DET NOUN PUNCT
+35,the quiet doctors buy the lazy book near the brave kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+35,the quiet cats fear the dogs .,DET ADJ NOUN VERB DET NOUN PUNCT
+35,the brave horses eat the hungry rice behind the young garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+35,the brave farmers lose the watch near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+35,the mice run in the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+35,the boys buy the cheese near the young river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+35,the doctors find the book at the brave garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+35,the girls leave the garden .,DET NOUN VERB DET NOUN PUNCT
+35,the children visit the river .,DET NOUN VERB DET NOUN PUNCT
+35,the young children watch the birds by the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+35,the quiet horses follow the birds .,DET ADJ NOUN VERB DET NOUN PUNCT
+35,the young horses run behind the school .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+35,the farmers watch the brave birds at the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+35,the dogs sleep behind the park .,DET NOUN VERB PREP DET NOUN PUNCT
+35,the small boys buy the book in the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+35,the girls buy the rice near the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+35,the lazy doctors buy the coin in the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the happy girls watch the mice by the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the cats eat the apples behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the children sell the soup by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the doctors bring the old rice at the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+36,the quiet foxes run at the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+36,the farmers buy the rice behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the girls bring the cheese near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the young birds eat the rice near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the foxes fear the birds .,DET NOUN VERB DET NOUN PUNCT
+36,the happy birds fear the dogs .,DET ADJ NOUN VERB DET NOUN PUNCT
+36,the happy teachers buy the key near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the girls watch the happy mice in the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+36,the quiet boys visit the happy garden .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+36,the doctors bring the key near the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the hungry mice eat the cheese by the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the dogs eat the soup at the old market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+36,the cats run at the park .,DET NOUN VERB PREP DET NOUN PUNCT
+36,the cats chase the horses .,DET NOUN VERB DET NOUN PUNCT
+36,the children bring the ball at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+36,the teachers watch the horses by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+37,the children watch the cats by the lazy garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+37,the horses fear the young birds .,DET NOUN VERB DET ADJ NOUN PUNCT
+37,the girls buy the lamp behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+37,the quiet doctors visit the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+37,the teachers visit the garden .,DET NOUN VERB DET NOUN PUNCT
+37,the mice fear the young foxes .,DET NOUN VERB DET ADJ NOUN PUNCT
+37,the lazy doctors leave the river .,DET ADJ NOUN VERB DET NOUN PUNCT
+37,the happy mice play in the lazy park .,DET ADJ NOUN VERB PREP DET ADJ NOUN PUNCT
+37,the young children bring the cheese at the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+37,the brave doctors buy the happy ball in the school .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+37,the horses eat the cheese in the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+37,the foxes sleep at the river .,DET NOUN VERB PREP DET NOUN PUNCT
+37,the doctors watch the dogs near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+37,the girls leave the market .,DET NOUN VERB DET NOUN PUNCT
+37,the old girls watch the small mice behind the small park .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+37,the farmers watch the cats in the happy market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+37,the happy horses eat the apples in the quiet school .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+37,the girls sell the bread behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+37,the foxes eat the rice near the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+37,the hungry horses play by the park .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+38,the farmers buy the rice behind the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+38,the children watch the horses near the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+38,the old cats eat the lazy cakes in the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+38,the teachers lose the brave key near the old park .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+38,the hungry farmers buy the apples in the brave school .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+38,the doctors visit the market .,DET NOUN VERB DET NOUN PUNCT
+38,the children sell the bread near the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+38,the doctors clean the river .,DET NOUN VERB DET NOUN PUNCT
+38,the quiet birds eat the apples by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+38,the farmers watch the happy foxes in the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+38,the dogs eat the soup near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+38,the mice eat the young bread at the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+38,the farmers visit the market .,DET NOUN VERB DET NOUN PUNCT
+38,the cats sleep in the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+38,the doctors buy the lazy coin by the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+38,the cats fear the dogs .,DET NOUN VERB DET NOUN PUNCT
+38,the horses follow the birds .,DET NOUN VERB DET NOUN PUNCT
+38,the small mice play in the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+38,the mice play behind the quiet park .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+38,the old foxes follow the horses .,DET ADJ NOUN VERB DET NOUN PUNCT
+39,the happy dogs eat the bread by the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the birds follow the mice .,DET NOUN VERB DET NOUN PUNCT
+39,the old boys find the book by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the mice sleep in the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+39,the children leave the park .,DET NOUN VERB DET NOUN PUNCT
+39,the teachers bring the ball by the lazy kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+39,the lazy cats follow the mice .,DET ADJ NOUN VERB DET NOUN PUNCT
+39,the horses eat the cheese near the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the teachers cook the cakes behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the girls clean the lazy river .,DET NOUN VERB DET ADJ NOUN PUNCT
+39,the brave doctors buy the lamp in the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the birds run at the market .,DET NOUN VERB PREP DET NOUN PUNCT
+39,the happy teachers watch the foxes near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the teachers leave the kitchen .,DET NOUN VERB DET NOUN PUNCT
+39,the hungry mice eat the rice at the lazy school .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+39,the lazy boys watch the horses in the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the teachers bring the coin in the happy kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+39,the girls buy the lamp by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the boys watch the foxes behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+39,the teachers buy the rice in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+40,the farmers visit the kitchen .,DET NOUN VERB DET NOUN PUNCT
+40,the brave cats run in the park .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+40,the farmers watch the horses at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+40,the happy dogs eat the apples at the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+40,the hungry mice chase the lazy mice .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+40,the boys visit the young river .,DET NOUN VERB DET ADJ NOUN PUNCT
+40,the teachers buy the lamp by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+40,the young doctors eat the cakes near the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+40,the doctors clean the small kitchen .,DET NOUN VERB DET ADJ NOUN PUNCT
+40,the girls leave the park .,DET NOUN VERB DET NOUN PUNCT
+40,the quiet horses play in the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+40,the hungry mice play by the school .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+40,the brave doctors watch the horses at the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+40,the teachers watch the foxes behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+40,the children watch the foxes in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+40,the mice follow the birds .,DET NOUN VERB DET NOUN PUNCT
+40,the hungry dogs play in the school .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+40,the quiet farmers buy the hungry rice near the park .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+40,the foxes chase the mice .,DET NOUN VERB DET NOUN PUNCT
+40,the birds chase the cats .,DET NOUN VERB DET NOUN PUNCT
+41,the dogs follow the horses .,DET NOUN VERB DET NOUN PUNCT
+41,the children lose the ball near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the cats sleep near the river .,DET NOUN VERB PREP DET NOUN PUNCT
+41,the doctors cook the cakes at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the girls watch the horses at the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the cats eat the cakes behind the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the farmers watch the foxes in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the children leave the park .,DET NOUN VERB DET NOUN PUNCT
+41,the doctors watch the mice near the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the hungry cats eat the rice in the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the foxes chase the hungry cats .,DET NOUN VERB DET ADJ NOUN PUNCT
+41,the boys watch the mice in the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the dogs run by the market .,DET NOUN VERB PREP DET NOUN PUNCT
+41,the foxes run at the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+41,the foxes eat the cakes behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the teachers sell the bread behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the horses chase the dogs .,DET NOUN VERB DET NOUN PUNCT
+41,the dogs eat the soup near the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+41,the girls visit the quiet river .,DET NOUN VERB DET ADJ NOUN PUNCT
+41,the dogs play in the park .,DET NOUN VERB PREP DET NOUN PUNCT
+42,the brave teachers leave the lazy river .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+42,the children visit the garden .,DET NOUN VERB DET NOUN PUNCT
+42,the teachers visit the school .,DET NOUN VERB DET NOUN PUNCT
+42,the teachers eat the cakes in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+42,the foxes play near the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+42,the farmers leave the garden .,DET NOUN VERB DET NOUN PUNCT
+42,the horses eat the lazy cakes near the old garden .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+42,the dogs eat the bread by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+42,the teachers watch the cats in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+42,the teachers find the coin by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+42,the boys buy the watch near the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+42,the doctors visit the park .,DET NOUN VERB DET NOUN PUNCT
+42,the small foxes chase the dogs .,DET ADJ NOUN VERB DET NOUN PUNCT
+42,the girls find the key near the old river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+42,the children sell the cakes by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+42,the boys find the book in the happy river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+42,the birds chase the birds .,DET NOUN VERB DET NOUN PUNCT
+42,the young dogs sleep at the small market .,DET ADJ NOUN VERB PREP DET ADJ NOUN PUNCT
+42,the birds run at the river .,DET NOUN VERB PREP DET NOUN PUNCT
+42,the happy mice eat the soup at the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+43,the doctors watch the lazy birds in the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+43,the doctors cook the hungry rice behind the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+43,the old farmers watch the hungry dogs at the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+43,the cats eat the apples near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+43,the teachers watch the small birds near the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+43,the girls visit the kitchen .,DET NOUN VERB DET NOUN PUNCT
+43,the old children watch the foxes near the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+43,the young dogs follow the cats .,DET ADJ NOUN VERB DET NOUN PUNCT
+43,the girls clean the lazy market .,DET NOUN VERB DET ADJ NOUN PUNCT
+43,the teachers leave the brave school .,DET NOUN VERB DET ADJ NOUN PUNCT
+43,the small mice fear the happy cats .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+43,the teachers buy the ball behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+43,the doctors watch the dogs in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+43,the boys leave the river .,DET NOUN VERB DET NOUN PUNCT
+43,the young children cook the soup by the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+43,the cats follow the cats .,DET NOUN VERB DET NOUN PUNCT
+43,the doctors visit the river .,DET NOUN VERB DET NOUN PUNCT
+43,the children visit the market .,DET NOUN VERB DET NOUN PUNCT
+43,the cats play at the market .,DET NOUN VERB PREP DET NOUN PUNCT
+43,the hungry girls sell the cheese at the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the lazy teachers watch the mice at the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the mice eat the hungry soup behind the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+44,the children leave the market .,DET NOUN VERB DET NOUN PUNCT
+44,the doctors bring the watch by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the girls sell the rice in the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the cats eat the cheese near the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the lazy children watch the birds near the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the farmers bring the apples in the brave river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+44,the girls clean the park .,DET NOUN VERB DET NOUN PUNCT
+44,the farmers lose the coin in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the happy foxes sleep in the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+44,the happy dogs eat the cakes in the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the teachers watch the horses in the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the dogs play behind the school .,DET NOUN VERB PREP DET NOUN PUNCT
+44,the foxes eat the cakes by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+44,the happy farmers visit the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+44,the farmers visit the quiet river .,DET NOUN VERB DET ADJ NOUN PUNCT
+44,the dogs fear the dogs .,DET NOUN VERB DET NOUN PUNCT
+44,the mice fear the dogs .,DET NOUN VERB DET NOUN PUNCT
+44,the brave birds chase the foxes .,DET ADJ NOUN VERB DET NOUN PUNCT
+45,the small mice follow the dogs .,DET ADJ NOUN VERB DET NOUN PUNCT
+45,the boys bring the bread at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the boys visit the kitchen .,DET NOUN VERB DET NOUN PUNCT
+45,the quiet teachers watch the birds near the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the hungry children clean the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+45,the foxes eat the old soup behind the small kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+45,the old foxes eat the hungry rice at the garden .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+45,the teachers watch the birds by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the children sell the apples in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the doctors eat the soup at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the horses fear the dogs .,DET NOUN VERB DET NOUN PUNCT
+45,the girls buy the lamp by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the girls watch the quiet horses near the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+45,the boys watch the young foxes by the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+45,the teachers lose the watch near the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the girls bring the lamp near the quiet river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+45,the foxes play at the school .,DET NOUN VERB PREP DET NOUN PUNCT
+45,the mice eat the apples by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the small boys bring the coin near the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+45,the children buy the quiet rice in the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+46,the birds chase the foxes .,DET NOUN VERB DET NOUN PUNCT
+46,the farmers bring the coin behind the brave market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+46,the quiet foxes run at the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+46,the old dogs play by the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+46,the doctors find the watch in the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+46,the brave boys clean the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+46,the farmers watch the quiet cats in the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+46,the foxes chase the cats .,DET NOUN VERB DET NOUN PUNCT
+46,the girls visit the lazy river .,DET NOUN VERB DET ADJ NOUN PUNCT
+46,the small mice play by the hungry school .,DET ADJ NOUN VERB PREP DET ADJ NOUN PUNCT
+46,the small cats sleep by the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+46,the cats chase the quiet birds .,DET NOUN VERB DET ADJ NOUN PUNCT
+46,the doctors bring the rice in the small kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+46,the foxes chase the birds .,DET NOUN VERB DET NOUN PUNCT
+46,the cats sleep by the river .,DET NOUN VERB PREP DET NOUN PUNCT
+46,the boys sell the bread near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+46,the old teachers visit the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+46,the birds sleep at the park .,DET NOUN VERB PREP DET NOUN PUNCT
+46,the girls eat the bread at the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+46,the lazy dogs eat the apples at the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the children bring the lazy coin in the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+47,the cats eat the young cakes by the park .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+47,the old foxes chase the horses .,DET ADJ NOUN VERB DET NOUN PUNCT
+47,the young mice run behind the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+47,the young farmers watch the birds at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the lazy girls eat the soup near the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the small cats run in the river .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+47,the boys watch the birds in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the teachers lose the coin at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the small girls watch the cats at the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the girls visit the school .,DET NOUN VERB DET NOUN PUNCT
+47,the young dogs eat the soup at the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the birds eat the rice at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the quiet teachers watch the horses by the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the small boys buy the cakes by the brave river .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+47,the foxes run behind the old market .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+47,the birds chase the cats .,DET NOUN VERB DET NOUN PUNCT
+47,the brave boys find the watch at the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the teachers watch the mice at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+47,the farmers leave the lazy garden .,DET NOUN VERB DET ADJ NOUN PUNCT
+48,the foxes eat the cakes behind the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the boys sell the bread by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the young dogs play in the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+48,the foxes sleep by the river .,DET NOUN VERB PREP DET NOUN PUNCT
+48,the hungry children clean the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+48,the farmers visit the school .,DET NOUN VERB DET NOUN PUNCT
+48,the children watch the dogs in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the lazy boys lose the coin by the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the girls watch the foxes at the happy park .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+48,the horses eat the bread near the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the happy farmers buy the watch near the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the teachers lose the lamp at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the happy cats follow the foxes .,DET ADJ NOUN VERB DET NOUN PUNCT
+48,the mice eat the cakes at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the farmers bring the lamp behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the children visit the kitchen .,DET NOUN VERB DET NOUN PUNCT
+48,the cats eat the rice by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+48,the foxes follow the mice .,DET NOUN VERB DET NOUN PUNCT
+48,the children visit the market .,DET NOUN VERB DET NOUN PUNCT
+48,the old foxes follow the birds .,DET ADJ NOUN VERB DET NOUN PUNCT
+49,the foxes play in the river .,DET NOUN VERB PREP DET NOUN PUNCT
+49,the farmers visit the park .,DET NOUN VERB DET NOUN PUNCT
+49,the girls bring the small cakes near the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+49,the children buy the cakes in the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+49,the girls lose the book behind the old school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+49,the dogs follow the mice .,DET NOUN VERB DET NOUN PUNCT
+49,the farmers visit the river .,DET NOUN VERB DET NOUN PUNCT
+49,the farmers leave the garden .,DET NOUN VERB DET NOUN PUNCT
+49,the quiet doctors find the key by the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+49,the small mice eat the cakes at the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+49,the mice run behind the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+49,the happy birds fear the foxes .,DET ADJ NOUN VERB DET NOUN PUNCT
+49,the children visit the park .,DET NOUN VERB DET NOUN PUNCT
+49,the farmers watch the young foxes near the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+49,the boys find the key by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+49,the happy girls clean the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+49,the brave boys bring the young soup at the old market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+49,the farmers bring the lamp near the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+49,the quiet children watch the horses near the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+49,the quiet dogs play at the school .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+50,the teachers watch the lazy dogs behind the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+50,the young mice eat the rice behind the small garden .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+50,the teachers buy the cakes by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+50,the young foxes run behind the small kitchen .,DET ADJ NOUN VERB PREP DET ADJ NOUN PUNCT
+50,the lazy foxes follow the brave mice .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+50,the farmers watch the small dogs at the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+50,the horses eat the apples by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+50,the happy farmers watch the horses near the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+50,the cats eat the small cheese near the quiet market .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+50,the cats eat the soup in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+50,the teachers watch the happy cats behind the quiet market .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+50,the quiet doctors buy the watch by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+50,the boys clean the school .,DET NOUN VERB DET NOUN PUNCT
+50,the hungry horses run by the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+50,the small girls lose the coin at the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+50,the farmers watch the mice by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+50,the birds eat the small cakes behind the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+50,the young cats eat the cheese near the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+50,the old dogs run at the park .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+50,the lazy horses fear the foxes .,DET ADJ NOUN VERB DET NOUN PUNCT
+51,the foxes eat the apples by the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+51,the doctors leave the river .,DET NOUN VERB DET NOUN PUNCT
+51,the boys lose the watch in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+51,the happy horses eat the cakes by the lazy river .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+51,the horses run near the park .,DET NOUN VERB PREP DET NOUN PUNCT
+51,the doctors sell the bread by the small kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+51,the horses sleep at the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+51,the quiet doctors find the watch in the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+51,the horses chase the quiet foxes .,DET NOUN VERB DET ADJ NOUN PUNCT
+51,the children watch the foxes behind the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+51,the quiet mice chase the cats .,DET ADJ NOUN VERB DET NOUN PUNCT
+51,the cats sleep at the river .,DET NOUN VERB PREP DET NOUN PUNCT
+51,the children lose the key behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+51,the foxes eat the happy bread near the small park .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+51,the dogs follow the mice .,DET NOUN VERB DET NOUN PUNCT
+51,the mice fear the quiet horses .,DET NOUN VERB DET ADJ NOUN PUNCT
+51,the cats chase the happy mice .,DET NOUN VERB DET ADJ NOUN PUNCT
+51,the horses eat the soup by the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+51,the teachers watch the small cats at the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+51,the mice eat the apples in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the doctors watch the horses near the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the foxes play in the park .,DET NOUN VERB PREP DET NOUN PUNCT
+52,the girls clean the park .,DET NOUN VERB DET NOUN PUNCT
+52,the teachers eat the old soup behind the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+52,the mice follow the mice .,DET NOUN VERB DET NOUN PUNCT
+52,the foxes eat the soup at the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the horses eat the cheese by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the lazy dogs eat the happy rice at the young river .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+52,the small girls buy the apples near the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the foxes run in the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+52,the quiet farmers watch the cats by the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the doctors find the lamp at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the birds sleep by the hungry market .,DET NOUN VERB PREP DET ADJ NOUN PUNCT
+52,the old foxes eat the quiet cakes at the river .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+52,the dogs eat the apples near the old river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+52,the girls visit the river .,DET NOUN VERB DET NOUN PUNCT
+52,the happy girls buy the soup behind the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the birds follow the dogs .,DET NOUN VERB DET NOUN PUNCT
+52,the teachers lose the key behind the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+52,the mice fear the cats .,DET NOUN VERB DET NOUN PUNCT
+53,the happy teachers eat the bread near the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+53,the mice eat the apples at the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+53,the foxes eat the apples behind the quiet kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+53,the children watch the mice near the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+53,the teachers bring the coin at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+53,the brave horses play near the kitchen .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+53,the quiet doctors buy the cheese in the quiet market .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+53,the children lose the watch in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+53,the cats eat the hungry soup behind the garden .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+53,the old children leave the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+53,the birds eat the apples behind the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+53,the children watch the mice near the old school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+53,the young teachers visit the young market .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+53,the hungry farmers leave the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+53,the teachers watch the birds at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+53,the horses eat the soup near the happy river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+53,the mice eat the rice in the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+53,the happy doctors clean the garden .,DET ADJ NOUN VERB DET NOUN PUNCT
+53,the girls watch the quiet cats by the school .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+53,the farmers buy the cheese near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+54,the foxes run near the park .,DET NOUN VERB PREP DET NOUN PUNCT
+54,the brave girls visit the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+54,the farmers sell the cakes by the happy kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+54,the horses eat the cheese behind the young river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+54,the foxes fear the lazy mice .,DET NOUN VERB DET ADJ NOUN PUNCT
+54,the boys eat the cakes behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+54,the dogs eat the rice by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+54,the lazy doctors watch the cats by the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+54,the boys bring the rice by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+54,the cats run at the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+54,the teachers bring the hungry key near the market .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+54,the boys buy the cakes near the brave market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+54,the foxes run in the river .,DET NOUN VERB PREP DET NOUN PUNCT
+54,the hungry girls cook the rice by the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+54,the girls bring the lazy key at the small river .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+54,the small foxes eat the rice in the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+54,the foxes eat the soup in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+54,the dogs follow the dogs .,DET NOUN VERB DET NOUN PUNCT
+54,the young doctors lose the lazy key behind the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+54,the lazy foxes play behind the river .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+55,the boys bring the apples in the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+55,the hungry teachers watch the dogs by the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+55,the foxes fear the mice .,DET NOUN VERB DET NOUN PUNCT
+55,the children sell the cakes behind the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+55,the happy children watch the birds at the small park .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+55,the mice fear the horses .,DET NOUN VERB DET NOUN PUNCT
+55,the hungry doctors watch the lazy mice in the river .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+55,the teachers buy the coin in the brave market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+55,the small farmers leave the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+55,the quiet mice chase the horses .,DET ADJ NOUN VERB DET NOUN PUNCT
+55,the lazy children bring the cheese at the quiet kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+55,the doctors watch the happy cats by the hungry market .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+55,the boys bring the apples near the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+55,the birds eat the rice at the young park .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+55,the cats eat the apples at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+55,the lazy teachers buy the bread near the young kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+55,the young boys clean the small park .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+55,the horses chase the dogs .,DET NOUN VERB DET NOUN PUNCT
+55,the hungry mice fear the lazy horses .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+55,the brave farmers buy the old book in the kitchen .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+56,the hungry doctors lose the coin at the garden .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+56,the horses run in the garden .,DET NOUN VERB PREP DET NOUN PUNCT
+56,the farmers lose the small key in the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+56,the young boys leave the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+56,the horses run by the school .,DET NOUN VERB PREP DET NOUN PUNCT
+56,the cats eat the apples by the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+56,the cats play near the market .,DET NOUN VERB PREP DET NOUN PUNCT
+56,the foxes eat the cakes by the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+56,the cats chase the horses .,DET NOUN VERB DET NOUN PUNCT
+56,the farmers watch the birds near the quiet kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+56,the small doctors bring the cheese in the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+56,the brave boys buy the ball in the park .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+56,the teachers leave the kitchen .,DET NOUN VERB DET NOUN PUNCT
+56,the doctors watch the foxes near the small river .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+56,the mice chase the horses .,DET NOUN VERB DET NOUN PUNCT
+56,the lazy children watch the foxes at the market .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+56,the farmers find the small key in the lazy market .,DET NOUN VERB DET ADJ NOUN PREP DET ADJ NOUN PUNCT
+56,the foxes eat the small cheese near the market .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+56,the farmers bring the cheese in the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+56,the happy horses play in the market .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+57,the farmers buy the rice by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the happy dogs sleep by the school .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+57,the children cook the rice by the kitchen .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the farmers cook the quiet cheese by the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+57,the horses fear the dogs .,DET NOUN VERB DET NOUN PUNCT
+57,the children watch the foxes at the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the doctors sell the soup at the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the birds eat the cheese near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the old farmers lose the key near the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the boys eat the rice behind the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the farmers clean the river .,DET NOUN VERB DET NOUN PUNCT
+57,the teachers clean the garden .,DET NOUN VERB DET NOUN PUNCT
+57,the foxes fear the hungry foxes .,DET NOUN VERB DET ADJ NOUN PUNCT
+57,the doctors find the ball in the brave garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+57,the old children watch the foxes behind the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the mice fear the foxes .,DET NOUN VERB DET NOUN PUNCT
+57,the foxes run at the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+57,the teachers buy the ball near the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+57,the lazy children clean the garden .,DET ADJ NOUN VERB DET NOUN PUNCT
+57,the teachers sell the soup by the happy kitchen .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+58,the small teachers bring the lamp at the river .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+58,the doctors bring the watch by the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+58,the foxes fear the birds .,DET NOUN VERB DET NOUN PUNCT
+58,the teachers watch the dogs at the young market .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+58,the lazy children clean the hungry park .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+58,the lazy girls watch the hungry horses behind the school .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+58,the horses eat the small cheese behind the river .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+58,the hungry boys leave the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+58,the dogs sleep near the park .,DET NOUN VERB PREP DET NOUN PUNCT
+58,the birds eat the apples by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+58,the dogs eat the happy soup in the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+58,the brave doctors lose the key in the school .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+58,the horses eat the cakes behind the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+58,the young teachers clean the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+58,the horses eat the bread near the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+58,the doctors buy the bread near the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+58,the farmers find the key behind the market .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+58,the small teachers eat the lazy soup behind the market .,DET ADJ NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+58,the quiet girls leave the school .,DET ADJ NOUN VERB DET NOUN PUNCT
+58,the horses eat the bread by the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+59,the quiet boys visit the kitchen .,DET ADJ NOUN VERB DET NOUN PUNCT
+59,the hungry birds play at the park .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+59,the quiet boys lose the ball in the kitchen .,DET ADJ NOUN VERB DET NOUN PREP DET NOUN PUNCT
+59,the cats fear the mice .,DET NOUN VERB DET NOUN PUNCT
+59,the cats eat the apples at the small garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+59,the boys buy the ball near the young garden .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+59,the old mice play in the garden .,DET ADJ NOUN VERB PREP DET NOUN PUNCT
+59,the children buy the watch at the school .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+59,the boys bring the rice at the garden .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+59,the brave foxes chase the brave cats .,DET ADJ NOUN VERB DET ADJ NOUN PUNCT
+59,the old girls leave the park .,DET ADJ NOUN VERB DET NOUN PUNCT
+59,the girls watch the horses behind the river .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+59,the birds sleep behind the kitchen .,DET NOUN VERB PREP DET NOUN PUNCT
+59,the children sell the cakes near the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+59,the farmers lose the small key by the kitchen .,DET NOUN VERB DET ADJ NOUN PREP DET NOUN PUNCT
+59,the birds eat the bread near the hungry school .,DET NOUN VERB DET NOUN PREP DET ADJ NOUN PUNCT
+59,the dogs fear the happy foxes .,DET NOUN VERB DET ADJ NOUN PUNCT
+59,the happy teachers visit the market .,DET ADJ NOUN VERB DET NOUN PUNCT
+59,the horses eat the apples near the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT
+59,the doctors lose the book in the park .,DET NOUN VERB DET NOUN PREP DET NOUN PUNCT

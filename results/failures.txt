@@ -1,0 +1,8 @@
+Role-split HMM sentences: grammatical pattern, odd subject-verb pair (states are not meaning):
+  - the foxes lose by the school .
+  - the hungry foxes watch the hungry birds by the river .
+  - the old birds sell at the river .
+  - the children follow the dogs in the garden .
+n-gram (T=0.5) sentences copied verbatim from the training set (memorisation):
+  - the girls leave the park .
+  - the foxes play by the river .

@@ -1,0 +1,120 @@
+{
+  "models": {
+    "most-frequent tag": {
+      "accuracy": 0.8616003825615685,
+      "known_words": 0.9082801998966052,
+      "unknown_words": 0.2858660998937301,
+      "unknown_share_of_tokens": 0.07499800749183072,
+      "whole_sentence": 0.31872893596533464
+    },
+    "HMM + Viterbi": {
+      "accuracy": 0.8804096596796047,
+      "known_words": 0.9289160778907462,
+      "unknown_words": 0.2821466524973433,
+      "unknown_share_of_tokens": 0.07499800749183072,
+      "whole_sentence": 0.4039480019258546
+    }
+  },
+  "confusions": [
+    [
+      "PROPN",
+      "NOUN",
+      281
+    ],
+    [
+      "PROPN",
+      "X",
+      195
+    ],
+    [
+      "PROPN",
+      "INTJ",
+      137
+    ],
+    [
+      "NOUN",
+      "X",
+      109
+    ],
+    [
+      "NOUN",
+      "PROPN",
+      106
+    ],
+    [
+      "VERB",
+      "AUX",
+      105
+    ],
+    [
+      "NOUN",
+      "VERB",
+      96
+    ],
+    [
+      "VERB",
+      "NOUN",
+      94
+    ],
+    [
+      "NOUN",
+      "ADJ",
+      83
+    ],
+    [
+      "SCONJ",
+      "ADP",
+      70
+    ],
+    [
+      "NUM",
+      "X",
+      58
+    ],
+    [
+      "ADJ",
+      "ADV",
+      57
+    ],
+    [
+      "PROPN",
+      "ADJ",
+      56
+    ],
+    [
+      "ADV",
+      "ADJ",
+      55
+    ],
+    [
+      "ADV",
+      "ADP",
+      55
+    ],
+    [
+      "PROPN",
+      "PRON",
+      55
+    ],
+    [
+      "ADP",
+      "ADV",
+      54
+    ],
+    [
+      "ADJ",
+      "VERB",
+      45
+    ],
+    [
+      "ADP",
+      "PART",
+      39
+    ],
+    [
+      "PROPN",
+      "DET",
+      39
+    ]
+  ]
+}

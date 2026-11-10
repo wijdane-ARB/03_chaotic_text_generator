@@ -1,0 +1,90 @@
+{
+  "viterbi_acc": {
+    "plain states": 1.0,
+    "role-split states": 1.0
+  },
+  "watch": [
+    37,
+    37
+  ],
+  "generation": {
+    "hmm": {
+      "0.5": {
+        "valid_tag_pattern": 0.238,
+        "novel_sentences": 0.998,
+        "plausible_subject_verb": 0.17,
+        "distinct_2": 0.14919499105545617
+      },
+      "1.0": {
+        "valid_tag_pattern": 0.162,
+        "novel_sentences": 0.998,
+        "plausible_subject_verb": 0.148,
+        "distinct_2": 0.1975071907957814
+      },
+      "1.5": {
+        "valid_tag_pattern": 0.204,
+        "novel_sentences": 0.998,
+        "plausible_subject_verb": 0.156,
+        "distinct_2": 0.21340915893445075
+      },
+      "2.5": {
+        "valid_tag_pattern": 0.154,
+        "novel_sentences": 1.0,
+        "plausible_subject_verb": 0.112,
+        "distinct_2": 0.21686046511627907
+      }
+    },
+    "hmm_split": {
+      "0.5": {
+        "valid_tag_pattern": 1.0,
+        "novel_sentences": 0.996,
+        "plausible_subject_verb": 0.698,
+        "distinct_2": 0.10654651470978002
+      },
+      "1.0": {
+        "valid_tag_pattern": 1.0,
+        "novel_sentences": 0.994,
+        "plausible_subject_verb": 0.606,
+        "distinct_2": 0.14769647696476965
+      },
+      "1.5": {
+        "valid_tag_pattern": 1.0,
+        "novel_sentences": 0.994,
+        "plausible_subject_verb": 0.562,
+        "distinct_2": 0.16098738932116985
+      },
+      "2.5": {
+        "valid_tag_pattern": 1.0,
+        "novel_sentences": 0.998,
+        "plausible_subject_verb": 0.522,
+        "distinct_2": 0.16684636118598384
+      }
+    },
+    "ngram": {
+      "0.5": {
+        "valid_tag_pattern": 0.636,
+        "novel_sentences": 0.906,
+        "plausible_subject_verb": 0.792,
+        "distinct_2": 0.09537827494848396
+      },
+      "1.0": {
+        "valid_tag_pattern": 0.57,
+        "novel_sentences": 0.912,
+        "plausible_subject_verb": 0.76,
+        "distinct_2": 0.1054945054945055
+      },
+      "1.5": {
+        "valid_tag_pattern": 0.482,
+        "novel_sentences": 0.932,
+        "plausible_subject_verb": 0.698,
+        "distinct_2": 0.11480601741884403
+      },
+      "2.5": {
+        "valid_tag_pattern": 0.442,
+        "novel_sentences": 0.928,
+        "plausible_subject_verb": 0.686,
+        "distinct_2": 0.11178861788617886
+      }
+    }
+  }
+}

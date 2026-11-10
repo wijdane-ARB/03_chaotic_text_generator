@@ -1,0 +1,29 @@
+train: 960 sentences, test: 240 sentences (split by document)
+Viterbi POS-tagging accuracy, plain states      : 100.0% | ambiguous word 'watch' (NOUN or VERB): 37/37
+Viterbi POS-tagging accuracy, role-split states : 100.0% | ambiguous word 'watch' (NOUN or VERB): 37/37
+
+500 sentences per setting.  columns: valid-tag-pattern | plausible subject-verb | novel | distinct-2
+  T=0.5 hmm         23.8%     17.0%     99.8%    0.149
+  T=0.5 hmm_split  100.0%     69.8%     99.6%    0.107
+  T=0.5 ngram       63.6%     79.2%     90.6%    0.095
+  T=1.0 hmm         16.2%     14.8%     99.8%    0.198
+  T=1.0 hmm_split  100.0%     60.6%     99.4%    0.148
+  T=1.0 ngram       57.0%     76.0%     91.2%    0.105
+  T=1.5 hmm         20.4%     15.6%     99.8%    0.213
+  T=1.5 hmm_split  100.0%     56.2%     99.4%    0.161
+  T=1.5 ngram       48.2%     69.8%     93.2%    0.115
+  T=2.5 hmm         15.4%     11.2%    100.0%    0.217
+  T=2.5 hmm_split  100.0%     52.2%     99.8%    0.167
+  T=2.5 ngram       44.2%     68.6%     92.8%    0.112
+  out-of-vocabulary rate of generated words: 0.0% (by construction: both models only emit training words)
+
+Role-split HMM sentences: grammatical pattern, odd subject-verb pair (states are not meaning):
+  - the foxes lose by the school .
+  - the hungry foxes watch the hungry birds by the river .
+  - the old birds sell at the river .
+  - the children follow the dogs in the garden .
+n-gram (T=0.5) sentences copied verbatim from the training set (memorisation):
+  - the girls leave the park .
+  - the foxes play by the river .
+
+Saved results/hmm_results.png, results/metrics.json, results/failures.txt
